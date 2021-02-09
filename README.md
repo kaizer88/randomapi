@@ -7,7 +7,7 @@ This application is build in Django and REST API with deployment script.
 This app allows users to check exchange rate with different countries.
 
 ## Output
-Output is json output.
+Output is in json output.
 
 ## Installation
 
