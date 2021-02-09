@@ -6,11 +6,6 @@ This application is build in Django and REST API with deployment script.
 ## Usage
 This app allows users to check exchange rate with different countries.
 
-
-```bash
-[Cape Town, Durban, Johannesburg]
-```
-
 ## Output
 Output is json output.
 
